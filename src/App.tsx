@@ -17,6 +17,7 @@ function App() {
       {/* {isLoading && <h1>Loading...</h1>}
       {error && <h1>{error}</h1>}
       {users.length ? JSON.stringify(users, null, 2) : ""} */}
+      <div>Запуск json сервера: json-server --watch db.json --port 5000</div>
       <PostContainer />
     </div>
   );

@@ -26,11 +26,6 @@
       "body": "typicode"
     },
     {
-      "id": 6,
-      "title": "json-server",
-      "body": "typicode"
-    },
-    {
       "id": 7,
       "title": "json-server",
       "body": "typicode"
@@ -56,14 +51,14 @@
       "body": "typicode"
     },
     {
-      "title": "55555",
-      "body": "55555",
-      "id": 12
-    },
-    {
-      "title": "new Post",
+      "title": "hello",
       "body": "new Post",
       "id": 13
+    },
+    {
+      "title": "hi",
+      "body": "kmk,l",
+      "id": 14
     }
   ],
   "comments": [
